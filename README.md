@@ -61,12 +61,12 @@ I am a passionate **Software Engineer** specializing in full-stack development, 
 | 🤖 Intervix AI | 🎨 HueHaven |
 | :--- | :--- |
 | **AI Interview Platform**<br/>Built with React, Node, Express, MongoDB.<br/>*Next-generation mock interview platform powered by AI.* | **Java GUI Application**<br/>Built with Java Swing, MySQL.<br/>*Elegant color palette generator and management system.* |
-| [View Repository](#) | [View Repository](#) |
+| [View Repository](https://github.com/diwakar1215/Intervix-AI) | [View Repository](https://github.com/diwakar1215/HueHaven) |
 
 | 🏦 Banking System | 📊 India GDP Dashboard |
 | :--- | :--- |
 | **Full Stack FinTech App**<br/>MERN Stack implementation.<br/>*Secure, scalable banking management solution.* | **Data Analytics**<br/>Power BI visualization.<br/>*Comprehensive analytical dashboard for economic data.* |
-| [View Repository](#) | [View Repository](#) |
+| [View Repository](https://github.com/diwakar1215/Banking-System) | [View Repository](https://github.com/diwakar1215/PowerBi-Projects) |
 
 <br/>
 
