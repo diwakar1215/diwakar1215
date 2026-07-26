@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://diwakarsingh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/diwakarsingh07/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:diwakar9345@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="./assets/Diwakar_Singh_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=Read.cv&logoColor=white" alt="Resume"/></a>
 </p>
 
