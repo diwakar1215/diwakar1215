@@ -1,0 +1,16 @@
+name: Check Broken Links
+
+on:
+  schedule:
+    - cron: "00 12 * * 1"
+  workflow_dispatch:
+
+jobs:
+  link-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.9.0
+        with:
+          args: --accept  200,204,429,403 --exclude-mail --no-progress './**/*.md'
