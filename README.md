@@ -74,9 +74,6 @@ I am a passionate **Software Engineer** specializing in full-stack development, 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diwakar1215&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-
-<br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=diwakar1215&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
