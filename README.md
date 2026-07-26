@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Software+Engineer;Java+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://diwakarsingh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
@@ -82,8 +82,8 @@ I am a passionate **Software Engineer** specializing in full-stack development, 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=diwakar1215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakar1215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=diwakar1215&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diwakar1215&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
 <br/><br/>
 
