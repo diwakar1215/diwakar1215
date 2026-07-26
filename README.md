@@ -101,7 +101,7 @@ I am a passionate **Software Engineer** specializing in full-stack development, 
 ## 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/diwakar1215"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/diwakar9345/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://codeforces.com/profile/diwakar1215"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://auth.geeksforgeeks.org/user/diwakar1215"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 </div>
